@@ -114,7 +114,6 @@ export default function({ types: t }) {
         if ([
           'Identifier',
           'MemberExpression',
-          'ArrayExpression',
           'ObjectExpression',
           'CallExpression'
         ].indexOf(path.node.callee.object.type) === -1) {

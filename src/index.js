@@ -100,7 +100,8 @@ const METHODS = [
   'fill',
   'freeze',
   'isFrozen',
-  'flatMap'
+  'flatMap',
+  'reverse'
 ]
 
 export default function({ types: t }) {

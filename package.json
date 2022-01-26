@@ -1,6 +1,6 @@
 {
   "name": "@unisharp/babel-plugin",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Babel plugin for UniSharp.",
   "author": "UniSharp Ltd. <unisharp-service@unisharp.com>",
   "main": "lib/index.js",

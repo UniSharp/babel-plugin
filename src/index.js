@@ -76,7 +76,6 @@ const METHODS = [
   'pluck',
   'reject',
   'swap',
-  'shuffle',
   'take',
   'unique',
   'diff',
